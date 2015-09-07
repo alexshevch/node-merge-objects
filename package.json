@@ -1,0 +1,19 @@
+{
+  "name": "merge-objects",
+  "version": "1.0.0",
+  "description": "Recursively merge two objects and concatenate arrays that are values of the same object key. ",
+  "main": "merge-objects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "merge",
+    "object",
+    "extend",
+    "concat",
+    "array",
+    "mixin"
+  ],
+  "author": "Oleksii Shevchenko <shevaroller@gmail.com> (http://shevaroller.me)",
+  "license": "MIT"
+}
