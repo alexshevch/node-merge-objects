@@ -1,6 +1,6 @@
 {
   "name": "merge-objects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merge two objects and concatenate arrays that are values of the same object key.",
   "main": "merge-objects.js",
   "scripts": {
