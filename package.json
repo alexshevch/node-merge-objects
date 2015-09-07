@@ -1,10 +1,14 @@
 {
   "name": "merge-objects",
   "version": "1.0.0",
-  "description": "Recursively merge two objects and concatenate arrays that are values of the same object key. ",
+  "description": "Merge two objects and concatenate arrays that are values of the same object key.",
   "main": "merge-objects.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shevaroller/node-merge-objects.git"
   },
   "keywords": [
     "merge",
