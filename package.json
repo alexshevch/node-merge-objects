@@ -4,7 +4,7 @@
   "description": "Merge two objects and concatenate arrays that are values of the same object key.",
   "main": "merge-objects.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
