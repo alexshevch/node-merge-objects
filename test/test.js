@@ -1,4 +1,4 @@
-var merge  = require('./merge-objects');
+var merge  = require('../lib/merge-objects');
 var assert = require('assert');
 
 var object1, object2, result;
